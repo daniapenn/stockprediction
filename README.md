@@ -16,7 +16,12 @@
 - Run streamlit run main.py
 
 ## What will appear
-[stockprediction outcome.pdf](https://github.com/daniapenn/stockprediction/files/11751990/stockprediction.outcome.pdf)
+<img width="1007" alt="Screen Shot 2023-06-14 at 10 07 40 PM" src="https://github.com/daniapenn/stockprediction/assets/77757885/10b3a0fb-5b21-4f41-ac74-bf00e8f12f88">
+<img width="1058" alt="Screen Shot 2023-06-14 at 10 07 58 PM" src="https://github.com/daniapenn/stockprediction/assets/77757885/6f089d13-f6ba-4825-95cd-72b25940e403">
+<img width="998" alt="Screen Shot 2023-06-14 at 10 08 38 PM" src="https://github.com/daniapenn/stockprediction/assets/77757885/0b7350f4-0b78-46ba-9898-ae6c4e5d075a">
+<img width="1104" alt="Screen Shot 2023-06-14 at 10 08 51 PM" src="https://github.com/daniapenn/stockprediction/assets/77757885/48e78353-3a86-4e35-97d0-a0b9abc4a4d6">
+
 
 ## Modifications that can be made 
 - Feel free to change the stocks given and put ones that you desire having a prediction of
+- Adjust the years of prediction to your liking 
